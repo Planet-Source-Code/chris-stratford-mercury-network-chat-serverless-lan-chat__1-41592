@@ -1,0 +1,41 @@
+pProfileName=DarkNess
+ppassword=момЪ
+pDeveloperMode=false
+pNormalText=12632256
+pListText=8421504
+pErrorText=16777215
+pNotifyText=13487565
+pYourChatText=11513775
+pTheirChatText=8421504
+pHelpTextD=7303023
+pHelpTextN=14671839
+pEntryText=16777215
+pyourpmtext=33023
+ptheirpmtext=33023
+pOtherText=15724527
+pWindowBack=4210752
+pChatTextBack=3026478
+pEntryTextBack=5197647
+pTitleTextConnected=F E A R   T H E   D A R K N E S S
+pHandel=DARKNESS INCARNATE
+pChatSep=]=) 
+pProfileMessage=F E A R   T H E   D A R K N E S S   :  %id%  [MeRC]
+pFont=verdana
+pPopUpWindowOnMessage=0
+pAlwaysOnTop=0
+pTransparency=0
+pPicturePath=(none)
+pChannel=open
+pBanListPath=C:\Program Files\Microsoft Visual Studio\VB98\Projects\SDD Year 11 Major\27-6-02\night time.ban
+pBindF1=\help
+pBindF2=
+pBindF3=
+pBindF4=\quit
+pBindF5=]=0 --- F E A R   M E   %nick%
+pBindF6=]=P
+pBindF7=]=(
+pBindF8=]=)
+pBindF9=
+pBindF10=
+pBindF11=F E A R   M E  :  %id%
+pBindF12=\channel darkchat

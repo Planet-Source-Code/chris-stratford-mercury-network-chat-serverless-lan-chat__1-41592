@@ -1,0 +1,43 @@
+pProfileName=MERC Profile [SLiCK]
+pDeveloperMode=false
+ppassword=¾¼·µ”É
+pNormalText=16711808
+pListText=0
+pErrorText=255
+pNotifyText=32768
+pYourChatText=16744576
+pTheirChatText=65535
+pHelpTextD=4210752
+pHelpTextN=12583104
+pEntryText=16777215
+pOtherText=16777215
+pyourpmtext=33023
+ptheirpmtext=65535
+pWindowBack=12632256
+pChatTextBack=12632256
+pEntryTextBack=12632256
+pprofilemsgbox=- - [ Welcome To The Elite Profile ] - -
+pprofileurl=
+pTitleTextConnected=ELiTE PROFiLE
+pHandel=THe eLiTe
+pChatSep=-e-:
+pProfileMessage=Welcome The The Elite Profile %id%, Current Time is %time%, Enjoy!
+pFont=verdana
+pPopUpWindowOnMessage=1
+pAlwaysOnTop=0
+pTransparency=0
+pPicturePath=(None)
+pChannel=open
+pBanListPath=C:\Program Files\Microsoft Visual Studio\VB98\Projects\SDD Year 11 Major\Internet\Profiles\Private Profile.ban
+pBindF1=\help
+pBindF2=\pop on
+pBindF3=\pop off
+pBindF4=\quit
+pBindF5=\aot on
+pBindF6=\aot off
+pBindF7==]
+pBindF8==[
+pBindF9==)
+pBindF10==(
+pBindF11==eLiTe= - Hey All %id% (%nick%)  [%time%]
+pBindF12=\pchannel elite

@@ -1,0 +1,41 @@
+pProfileName=Invisible ;:.
+pDeveloperMode=false
+ppassword=момЪ
+pNormalText=0
+pListText=16711680
+pErrorText=255
+pNotifyText=32768
+pYourChatText=16744576
+pTheirChatText=33023
+pHelpTextD=4210752
+pHelpTextN=12583104
+pEntryText=0
+pOtherText=4210816
+pWindowBack=-2147483633
+pChatTextBack=16777215
+pEntryTextBack=16777215
+pTitleTextConnected=iNViSiBLE
+pHandel=InViSiBLE
+pyourpmtext=33023
+ptheirpmtext=33023
+pChatSep=;:. 
+pProfileMessage=Welcome To The Invisible Profile %id% - Be Sure To Change Your Nickname From %nick%...  [MeRC]
+pFont=verdana
+pPopUpWindowOnMessage=0
+pAlwaysOnTop=0
+pTransparency=65
+pPicturePath=
+pChannel=open
+pBanListPath=C:\Program Files\Microsoft Visual Studio\VB98\Projects\SDD Year 11 Major\27-6-02\Invisible.ban
+pBindF1=\trans 99
+pBindF2=\trans 80
+pBindF3=\trans 40
+pBindF4=\trans 0
+pBindF5=\aot on
+pBindF6=\aot off
+pBindF7=\pop on
+pBindF8=\pop off
+pBindF9==)
+pBindF10==(
+pBindF11===iNViSiBLE USER== ... %id% How Are You?
+pBindF12=\channel iNViSiBLE USERZ!
